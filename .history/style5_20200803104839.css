@@ -1,0 +1,13 @@
+.category1-bg{
+    display: flex;
+    border-bottom: 1px do;
+}
+.category2-bg {
+    width: 90%;
+    height: 40%;
+}
+
+.text-bg{
+    font-size: 12px;
+    margin-top: 5px;
+}

@@ -1,0 +1,54 @@
+.categorys-ab{
+    margin-top: 30px;
+    border: 1px solid #e3e5ec;
+}
+.categorys-ab > ul{
+    margin: 10px;
+}
+.category-ab{
+    border-bottom: 2px solid black;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.category1-ab > li >a{
+    color: black;
+}
+
+.category1-ab > li >a:hover{
+    text-decoration: none;
+}   
+
+.category1-ab > li{
+    margin-left: 10px;
+    padding-bottom: 10px;
+    padding-top : 10px;
+    border-bottom: 1px dotted #e3e5ec;
+}
+.category1-ab > li:last-child{
+    border:none;
+}
+
+.banner-ab{
+    margin-top: 30px;
+    background-color: #ffc800;
+}
+.banner1-ab{
+  padding: 20px;
+  transition: all 1.2s;
+}
+
+.banner1-ab:hover{
+    padding: 0px;
+    transition: all 1.2s;
+}
+
+.categorys2-ab > div{
+    margin-bottom: 0px;
+}
+
+.categorys3-ab{
+    margin-top: 30px;
+    font-size: 30px;
+}

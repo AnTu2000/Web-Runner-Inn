@@ -1,0 +1,24 @@
+.bd-ct{
+    margin-top: 20px;
+}
+.bd1-ct > li{
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 30px; 
+}
+.bd2-ct{
+    border: 2px solid black;
+    width: 12%;
+}
+.bd3-ct{
+    margin-top: 30px;
+    color: #9a9a9a;
+}
+
+.search{
+    width: 100%;
+    height: 40px;
+}
+.search1{
+    width: 50%;
+}

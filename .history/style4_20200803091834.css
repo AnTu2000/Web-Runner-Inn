@@ -1,0 +1,27 @@
+.categorys-ab{
+    margin-top: 30px;
+    border: 1px solid #e3e5ec;
+}
+.categorys-ab > ul{
+    margin: 10px;
+}
+.category-ab{
+    border-bottom: 2px solid black;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.category1-ab > li >a{
+    color: black;
+}
+
+.category1-ab > li >a:hover{
+    text-decoration: none;
+}   
+
+.category1-ab > li{
+    margin-left: 10px;
+    padding-b: 10px;
+    border-bottom: 1px dotted #e3e5ec;
+}

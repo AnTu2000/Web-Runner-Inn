@@ -1,0 +1,22 @@
+.hd-pr {
+    background-color: beige;
+}
+
+.hd-pr a {
+    text-decoration: none;
+    color: black;
+}
+
+.hd-pr a:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.title-hd-pr{
+    padding: 13px;
+    font-size: 13px;
+}
+
+.img-mini-pr{
+    border: 1px solid black;
+}

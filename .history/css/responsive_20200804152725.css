@@ -1,0 +1,93 @@
+/* Tablet Layout: 992px. */
+
+@media only screen and (min-width: 992px) {
+  ul.bd-menu2.chimcut2.collapse {
+    display: block;
+  }
+  ul.bd-menu.chimcut.collapse {
+    display: block;
+  }
+  .img-mini-pr{
+    display: inline;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  ul.menu-img-mid {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  li.al {
+    width: 50%;
+    margin-left: 0!important;
+  }
+  .conten-menu {
+    display: none;
+  }
+  .conten-icon {
+    text-align: right;
+  }
+  .menu-an {
+    display: block;
+  }
+  .bd-menu, .bd-menu2 {
+    display: none;
+  }
+  .conten-menu {
+    display: none;
+  }
+  .ft-style ul li img {
+    width: 100%;
+    height: 100%;
+  }
+  img {
+    height: 100%;
+  }
+  .conten-icon {
+    text-align: right;
+  }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .ft-style ul li img {
+    width: 100%;
+    height: 100%;
+  }
+  .conten-icon {
+    text-align: right;
+  }
+  img {
+    height: 100%;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+  .conten-icon {
+    text-align: right;
+  }
+  .ft-style ul li img {
+    width: 100%;
+    height: 100%;
+  }
+  .ft-un1{
+    text-align: center;
+  }
+  .prev-hm{
+    height: 10px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  img {
+    height: 100%;
+  }
+  .text2 div ul li {
+    white-space: nowrap;
+    width: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

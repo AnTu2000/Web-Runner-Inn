@@ -1,0 +1,250 @@
+/* Home */
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+/* Slideshow container */
+
+.fade>img {
+    width: 714px;
+}
+
+.slideshow-container {
+    position: relative;
+}
+
+/* Next & previous buttons */
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    bottom: 0px;
+    width: auto;
+    padding: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    transition: 0.4s ease;
+    background-color: white;
+}
+
+.prev {
+    right: 72px;
+}
+
+/* Position the "next button" to the right */
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+
+.prev:hover, .next:hover {
+    background-color: rgb(255, 255, 255, 0.5);
+    color: black;
+}
+
+/* The dots/bullets/indicators */
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+    background-color: #717171;
+}
+
+/* Fading animation */
+
+.body-hm {
+    margin-top: 40px;
+}
+
+.mySlides.fade {
+    opacity: 1;
+}
+
+.title-bd {
+    text-align: center;
+}
+
+.text-bd-top {
+    font-size: 28px;
+}
+
+.line-top-hm {
+    border-bottom: 1px solid black;
+    width: 5%;
+}
+
+.title-bd div ul {
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.text-bd-hm {
+    font-size: 13px;
+    opacity: .8;
+}
+
+.info-shoes-hm {
+    text-align: center;
+}
+
+.info2-shoes-hm {
+    font-size: 14px;
+}
+
+.info3-shoes-hm {
+    font-weight: bold;
+    cursor: auto;
+}
+
+.info-shoes-hm>a {
+    color: black;
+}
+
+.info-shoes-hm>a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.img-bd-hm {
+    width: 100%;
+    height: 100%;
+}
+
+.imgs-bd-hm {
+    margin-top: 50px;
+}
+
+.rotate {
+    transition: all .2s linear;
+}
+
+.rotate.down {
+    transform: rotate(-180deg);
+}
+
+.sanpham {
+    display: none;
+}
+
+.fade {
+    position: relative;
+}
+
+.fixed-bg {
+    background-image: url("images/backgroud.jpg");
+    min-height: 350px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.ss1 {
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.ss2 {
+    font-size: 18px;
+}
+
+input[type="text"] {
+    padding: 20px;
+    width: 80%;
+}
+
+input[type="button"] {
+    padding: 19px;
+    background: black;
+    margin-left: -5px;
+}
+
+.text-bvm-hm {
+    text-align: center;
+}
+
+.text1-bvm-hm {
+    font-size: 18px;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.boder-bvm-hm {
+    border: 1px solid black;
+    position: relative;
+    width: 20%;
+    margin-left: 40%;
+}
+
+.text-bvm-hm ul {
+    margin-top: 10px;
+}
+
+.col-md-4.img-spm-hm {
+    padding: 5px;
+}
+
+.col-md-4.text-bvm-hm {
+    padding: 5px;
+}
+
+.text-ft1 a {
+    color: black;
+}
+
+.text-ft1 a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.rotate {
+    -moz-transition: all 2s linear;
+    -webkit-transition: all 2s linear;
+    transition: all .2s linear;
+}
+
+.rotate.down {
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.slider {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-prev:before, .slick-next:before {
+    color: black;
+}
+
+.slick-slide {
+    transition: all ease-in-out .3s;
+}
+.mySlides img{
+    
+}

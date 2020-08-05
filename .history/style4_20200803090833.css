@@ -1,0 +1,10 @@
+.categorys-ab{
+    margin-top: 30px;
+    border: 1px solid red;
+}
+.categorys-ab > ul{
+    margin: 10px;
+}
+.category-ab{
+    border-bottom: 1px solid black;
+}

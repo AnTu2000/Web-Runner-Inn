@@ -1,0 +1,33 @@
+.hd-pr {
+    background-color: beige;
+}
+
+.hd-pr a {
+    text-decoration: none;
+    color: black;
+}
+
+.hd-pr a:hover {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.title-hd-pr{
+    padding: 13px;
+    font-size: 13px;
+}
+
+.img-mini-pr{
+    margin-top: 20px;
+
+}
+.img-mini-pr > ul{
+   margin-top: -5   px;
+}
+.img-mini-pr > ul > li > img{
+    border: 1px solid #f7f7f8;
+
+}
+.img-mini-pr > ul:hover{
+    border: 1px solid ;
+}

@@ -1,0 +1,21 @@
+.category1-bg{
+    display: flex;
+    border-bottom: 1px dotted #e3e5ec;
+}
+
+
+.category2-bg {
+    width: 90%;
+    height: 40%;
+}
+.category1-bg a{
+    color: black;
+}
+.category1-bg a:hover{
+    color: black;
+    text-decoration: none;
+}
+.text-bg{
+    font-size: 12px;
+    margin-top: 5px;
+}

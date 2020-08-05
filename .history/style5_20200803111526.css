@@ -1,0 +1,43 @@
+.category1-bg{
+    display: flex;
+    border-bottom: 1px dotted #e3e5ec;
+}
+.category1-bg li{
+    padding-left: 10px;
+}
+
+.category2-bg {
+    width: 90%;
+    height: 40%;
+}
+.category1-bg a{
+    color: black;
+}
+.category1-bg a:hover{
+    color: black;
+    text-decoration: none;
+}
+.text-bg{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.category3-bg > ul > li > img{
+   padding-right: 50px;
+}
+.category4-bg{
+    width: 500px;
+}
+.category3-bg > ul{
+    display: flex;
+}
+.text2-bg{
+    font-size: 16px;
+  
+}
+.text3-bg{
+    color: #9fa19f;
+}
+.text4-bg{
+    color: #516c88;
+}
